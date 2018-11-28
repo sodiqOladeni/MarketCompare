@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Market Compare</string>
+    <string name="product_image">Product Image</string>
+    <string name="sample_product_description">#10,000</string>
+    <string name="empty_search">No result found</string>
+    <string name="null_search">Error in connection</string>
+</resources>
